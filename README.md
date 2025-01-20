@@ -2,6 +2,16 @@
 
 A new Flutter project.
 
+<h2>Screenshots</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/inder-7/quiz_app/blob/master/screenshots/Screenshot_2025-01-20-14-17-29-13_3073bfe3f215989e735ea0178fd89519.jpg" alt="Screenshot 1" width="300">
+  <img src="https://github.com/inder-7/quiz_app/blob/master/screenshots/Screenshot_2025-01-20-14-17-39-02_3073bfe3f215989e735ea0178fd89519.jpg" alt="Screenshot 2" width="300">
+  <img src="https://github.com/inder-7/quiz_app/blob/master/screenshots/Screenshot_2025-01-20-14-17-58-66_3073bfe3f215989e735ea0178fd89519.jpg" alt="Screenshot 3" width="300">
+  <img src="https://github.com/inder-7/quiz_app/blob/master/screenshots/Screenshot_2025-01-20-14-18-18-82_3073bfe3f215989e735ea0178fd89519.jpg" alt="Screenshot 4" width="300">
+</div>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
